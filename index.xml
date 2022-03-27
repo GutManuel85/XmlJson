@@ -1,0 +1,68 @@
+<?xml version="1.0" ?>
+<?xml-stylesheet type="text/xsl" href="landingSection/landingPage.xsl"?>
+<page>
+    <pageHeader>
+        <headerUpper>
+            Central Grade
+        </headerUpper>
+        <headerLower>
+            Volksschule Hinterwald
+        </headerLower>
+    </pageHeader>
+    <menu>
+        <item>
+            <text>Home</text>
+            <link>index.xml</link>
+            <index>0</index>
+        </item>
+        <item>
+            <text>Fächer- verwaltung</text>
+            <link>subject_administration/subject_administration.xml</link>
+            <index>1</index>
+        </item>
+        <item>
+            <text>Studenten- verwaltung</text>
+            <link>student_administration/student_administration.xml</link>
+            <index>2</index>
+        </item>
+        <item>
+            <text>Report</text>
+            <link>report/report.xml</link>
+            <index>3</index>
+        </item>
+        <item>
+            <text>Semesterzeugnisse erstellen</text>
+            <link>pdf/pdf.php</link>
+            <index>4</index>
+        </item>
+        <item>
+            <text>Database</text>
+            <link>database/database.xml</link>
+            <index>5</index>
+        </item>
+    </menu>
+    <attentionBox>
+        <headerUpper>
+            Achtung!
+        </headerUpper>
+        <headerLower>
+            Prüfungsresultate unter 4.0:
+        </headerLower>
+    </attentionBox>
+    <infoBox>
+        <headerUpper>
+            Wichtig!
+        </headerUpper>
+        <headerLower>
+            Probleme von Lernenden früh erkennen!
+        </headerLower>
+        <text>
+            Schülerinnen und Schülern mit Problemen im Fernunterricht soll möglichst
+            früh geholfen werden. Deshalb ist es wichtig, dass Sie als Lehrerperson die
+            Noten kontinuierlich in "Central Grade" eintragen.
+        </text>
+    </infoBox>
+    <footer>
+        Created by Davide Ganci &amp; Manuel Gut / HSLU / Bachelor Inormatik / XML
+    </footer>
+</page>
