@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="../xslt/success.xsl"?>
+<page>
+    <header>
+        Fächerverwaltung
+    </header>
+    <menu>
+        <item>
+            <text>Fach hinzufügen</text>
+            <link>subject_add\addSubject.xml</link>
+            <index>0</index>
+        </item>
+        <item>
+            <text>Fach löschen</text>
+            <link>subject_remove\removeSubject.xml</link>
+            <index>1</index>
+        </item>
+        <item>
+            <text>Schüler/-in anmelden/abmelden</text>
+            <link>student_enroll\enrollStudentToSubject.xml</link>
+            <index>2</index>
+        </item>
+        <item>
+            <text>Zurück zum Hauptmenü</text>
+            <link>./../index.xml</link>
+            <index>3</index>
+        </item>
+    </menu>
+    <content>
+        <box>
+            <title>Operation erfolgreich abgeschlossen!</title>
+        </box>
+    </content>
+</page>

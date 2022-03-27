@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="report.xsl"?>
+<page>
+    <menu>
+        <item>
+            <text>Zurück zum Hauptmenü</text>
+            <link>./../index.xml</link>
+            <index>0</index>
+        </item>
+    </menu>
+</page>

@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<?xml-stylesheet type="text/xsl" href="addStudent.xsl"?>
+<page>
+<menu>
+    <item>
+        <text>Zurück zur Studentenverwaltung</text>
+        <link>../student_administration.xml</link>
+        <index>0</index>
+    </item>
+    <item>
+        <text>Zurück zum Hauptmenü</text>
+        <link>../../index.xml</link>
+        <index>1</index>
+    </item>
+</menu>
+</page>

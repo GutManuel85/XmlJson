@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="../xslt/administration.xsl"?>
+<page>
+    <header>
+        Studentenverwaltung
+    </header>
+    <menu>
+        <item>
+            <text>Student hinzufügen</text>
+            <link>student_add/addStudent.xml</link>
+            <index>0</index>
+        </item>
+        <item>
+            <text>Student löschen</text>
+            <link>student_remove/removeStudent.xml</link>
+            <index>1</index>
+        </item>
+        <item>
+            <text>Note hinzufügen</text>
+            <link>grade_add/addGrade.xml</link>
+            <index>2</index>
+        </item>
+        <item>
+            <text>Zurück zum Hauptmenü</text>
+            <link>./../index.xml</link>
+            <index>3</index>
+        </item>
+    </menu>
+</page>

@@ -1,0 +1,6 @@
+- Navigationstitel überall mit xml (nicht hart codiert)
+- Styling der Seiten, welche nach Formulareingabe erscheinen (ist es hier möglich, dass wir auf derselben Seite bleiben?)
+- Refresh Cache nach klick in Navigationsliste
+- Für den Trend nimmt es einfach das zuletzt eingefügte Element und vergleicht es mit dem Durchschnitt
+    - Kein erneutes zuweisen von werten von Variabeln möglich (https://stackoverflow.com/questions/19255139/how-to-change-or-reassign-a-variable-in-xslt)
+    - keine max-Funktion in X-Path mit Version 1.0

@@ -1,0 +1,8 @@
+- space in xslt: &#160; (https://stackoverflow.com/questions/1461649/how-to-insert-nbsp-in-xslt)
+- space in xslt: <xsl:text> </xsl:text> (https://stackoverflow.com/questions/1461649/how-to-insert-nbsp-in-xslt)
+- margin for buttons: https://stackoverflow.com/questions/26962837/putting-margins-between-buttons
+- using FO in xampp (https://community.apachefriends.org/f/viewtopic.php?f=16&t=48602):
+    - Open \xampp\php\php.ini file in your text editor
+    - Add (without semicolon at the beginning => otherwise it is a comment):
+        extension=php_xmlrpc.dll
+        extension=php_xsl.dll

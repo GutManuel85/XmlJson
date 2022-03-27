@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="../xslt/administration.xsl"?>
+<page>
+    <header>
+        XML Files
+    </header>
+    <menu>
+        <item>
+            <text>Database Students</text>
+            <link>database_students.xml</link>
+            <index>0</index>
+        </item>
+        <item>
+            <text>Database Subjects</text>
+            <link>database_subjects.xml</link>
+            <index>1</index>
+        </item>
+        <item>
+            <text>Zurück zum Hauptmenü</text>
+            <link>./../index.xml</link>
+            <index>2</index>
+        </item>
+    </menu>
+</page>
